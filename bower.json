@@ -1,6 +1,6 @@
 {
   "name": "ng-logjs",
-  "version": "0.0.1",
+  "version": "v0.0.1-alpha.1",
   "description": "Simple AngularJS $log Decorator for remote logging",
   "main": "./dist/ng-logjs.js",
   "authors": [
