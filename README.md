@@ -1,6 +1,6 @@
 # ng-LogJS
 
-One Paragraph of project description goes here
+Simple AngularJS $log Decorator for remote logging.
 
 ## Getting Started
 
