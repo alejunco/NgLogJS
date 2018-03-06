@@ -1,0 +1,31 @@
+{
+  "name": "ng-logjs",
+  "version": "0.0.1",
+  "description": "Simple AngularJS $log Decorator for remote logging",
+  "main": "./dist/ng-logjs.js",
+  "authors": [
+    "Alejandro Junco"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angularjs",
+    "log",
+    "angular",
+    "decorator",
+    "$log",
+    "remote"
+  ],
+  "homepage": "https://github.com/alejunco/NgLogJS",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": ">= 1.2.0",
+    "underscore": "~1.8.3",
+    "bowser": "~1.9.2"
+  }
+}

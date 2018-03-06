@@ -1,0 +1,37 @@
+{
+  "name": "ng-logjs",
+  "version": "0.0.1",
+  "description": "Simple AngularJS $log Decorator for remote logging",
+  "main": "./dist/ng-logjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config ./webpack.config.production.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejunco/NgLogJS.git"
+  },
+  "keywords": [
+    "angularjs",
+    "log",
+    "angular",
+    "decorator",
+    "$log",
+    "remote"
+  ],
+  "author": "Alejandro Junco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alejunco/NgLogJS/issues"
+  },
+  "homepage": "https://github.com/alejunco/NgLogJS#readme",
+  "peerDependencies": {
+    "angular": ">= 1.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
