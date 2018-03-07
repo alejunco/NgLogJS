@@ -8,12 +8,18 @@
   ],
   "license": "MIT",
   "keywords": [
-    "angularjs",
-    "log",
     "angular",
-    "decorator",
+    "angularjs",
+    "ng",
     "$log",
-    "remote"
+    "log",
+    "logging",
+    "decorator",
+    "json",
+    "js",
+    "intercept",
+    "remote",
+    "api"
   ],
   "homepage": "https://github.com/alejunco/NgLogJS",
   "ignore": [
