@@ -1,5 +1,7 @@
 # ng-LogJS
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alejunco/ngLogJS.svg)](https://greenkeeper.io/)
+
 Simple AngularJS $log Decorator for remote logging.
 
 ## Getting Started
